@@ -24,6 +24,4 @@ dist-ssr
 *.sw?
 
 # Large Media Files
-*.mp4
-*.MP4
 *.zip
