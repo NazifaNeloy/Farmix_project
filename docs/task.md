@@ -1,0 +1,35 @@
+- [x] Explore `ScannerPage.jsx` and Gemini config <!-- id: 0 -->
+- [x] Create Implementation Plan <!-- id: 1 -->
+- [x] Create `PEST_KNOWLEDGE_BASE` constant <!-- id: 2 -->
+- [x] Implement Gemini Vision API integration <!-- id: 3 -->
+- [x] Update `ScannerPage.jsx` with Camera UI and Logic <!-- id: 4 -->
+- [x] Verify and Polish <!-- id: 5 -->
+- [x] Refactor Gemini Service with Fallback Strategy <!-- id: 6 -->
+- [x] Implement Raw Fetch API for Gemini <!-- id: 7 -->
+- [x] Implement "Demo Mode" Fallback <!-- id: 8 -->
+- [x] Refine UI and Remove Misleading Fallback <!-- id: 9 -->
+- [x] Fix Missing "Smart Alert" in Navigation <!-- id: 10 -->
+- [x] Implement Smart Alert Decision Engine & SMS Simulation <!-- id: 11 -->
+- [x] Implement Hyper-Local Weather Service (Open-Meteo) <!-- id: 12 -->
+- [x] Implement "Demo Potato" Trigger for Verification <!-- id: 13 -->
+- [x] Enable "Demo Potato" Selection in Add Batch Form <!-- id: 14 -->
+- [x] Fix Broken Navigation and Demo Trigger on Risk Page <!-- id: 15 -->
+- [x] Fix Runtime Crash in Smart Alert Logic <!-- id: 16 -->
+- [x] Fix Community Map UI Cropping and Logic <!-- id: 17 -->
+- [x] Implement Persistent Mock Community Data <!-- id: 18 -->
+- [x] Fix User Profile Data Display <!-- id: 19 -->
+- [x] Implement Explicit Profile Fetching in Dashboard <!-- id: 20 -->
+- [x] Fix Community Map UI, Logic, and Data <!-- id: 21 -->
+- [x] Fix Batch Progress and Level Calculation Logic <!-- id: 22 -->
+- [x] Remove White Border/Padding from Main Layout <!-- id: 23 -->
+- [x] Implement Dark Mode Risk Alert Modal <!-- id: 24 -->
+- [x] Fix Dashboard Top Spacing (Content Cropping) <!-- id: 25 -->
+- [x] Implement Bangla Voice Assistant (Agri-Bot) <!-- id: 26 -->
+- [x] Implement Prediction Engine (ETCL & Mock Weather) <!-- id: 27 -->
+- [x] Implement Hyper-Local Weather Dashboard (Bangla UI) <!-- id: 28 -->
+- [x] Fix Agri-Bot Voice Logic (Keyword Matching) <!-- id: 29 -->
+- [x] Fix AI Scanner (Raw Fetch & Smart Demo Mode) <!-- id: 30 -->
+- [x] Update Home Page CTA Button to "Register Now" <!-- id: 31 -->
+- [x] Adjust Navbar Logo Spacing <!-- id: 32 -->
+- [x] Fix Dashboard Crash (Missing Import) <!-- id: 33 -->
+- [x] Fix Dashboard Crash (Missing Prop) <!-- id: 34 -->
